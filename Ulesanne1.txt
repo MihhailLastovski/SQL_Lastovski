@@ -1,0 +1,9 @@
+1. Найти ошибку и исправить ее:
+
+SELECT Id, YEAR(BillgDate) AS BillYear 
+FROM Receipt
+WHERE BillingYear >= 2010;
+
+2. Что такое check()?
+
+3. Начало и конец функции:
